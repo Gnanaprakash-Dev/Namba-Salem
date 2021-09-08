@@ -15,6 +15,7 @@ function App() {
           <Route path="/allshops" component={Sadds} />
   </Switch>
   </BrowserRouter>
+  <p>prakash</p>
  </>
   );
 }
