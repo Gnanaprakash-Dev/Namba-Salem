@@ -3,7 +3,7 @@
   "name": "Namba Salem",
   "icons": [
     {
-      "src": "img/icons/maskable.png",
+      "src": "img/icons/maskable_icon.png",
       "sizes": "196x196",
       "type": "image/png",
       "purpose": "any maskable"
