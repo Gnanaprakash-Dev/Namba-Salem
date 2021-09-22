@@ -4,7 +4,6 @@ import Sadds from './components/sadds';
 import Footer from './components/footer';
 import { BrowserRouter,Switch,Route } from "react-router-dom";
 
-
 function App() {
   return (
  <>
@@ -15,7 +14,6 @@ function App() {
           <Route path="/allshops" component={Sadds} />
   </Switch>
   </BrowserRouter>
-  <p>prakash</p>
  </>
   );
 }
